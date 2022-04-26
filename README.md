@@ -9,3 +9,6 @@
 - Font loader
 - Watcher
 - Local server
+
+### Useful links
+- [Microverse's Webpack boilerplate setup guide](https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/exercises/exercise_set_up_project_with_webpack.md)
